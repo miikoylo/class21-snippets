@@ -187,7 +187,7 @@ blockquote p {
   flex-grow: 0;
   flex-shrink: 0;
   margin-left: 20px;
-  /* cursor: pointer; */
+  cursor: pointer;
 }
 
 .banner p {
@@ -195,12 +195,12 @@ blockquote p {
 }
 
 .banner .button:hover {
-  /* color: black; */
-  /* background-color: white; */
-  /* border: 2px solid black; */
+  color: black;
+  background-color: white;
+  border: 2px solid black;
 }
 
-hidden {
+.hidden {
   display: none !important;
 }
 
